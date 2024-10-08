@@ -1,10 +1,10 @@
-### Olá! Eu sou o Layon 🖖🏼
+## Olá! Eu sou o Layon 🖖🏼
 
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/layonfigueiroa/)
 
 ![Layon's GitHub stats](https://github-readme-stats.vercel.app/api?username=layon-figueiroa&show_icons=true&theme=transparent)
 
-## Tecnologias do meu dia a dia
+## Tecnologias do meu dia a dia:
 
 <div style="display: inline_block;"><br />
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,4 +23,4 @@
   <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>  
 </div><br/>
 
-### Um sujeito apaixonado por tecnologia 👨🏽‍💻❤️
+#### Um sujeito apaixonado por tecnologia 👨🏽‍💻❤️
